@@ -1,0 +1,11 @@
+{
+  "name": "hahahhahahahahaahah",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/susamongusacedemy/hahahhahahahahaahah.git",
+  "author": "SussyBaka <squaresquirrel72@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
